@@ -1,0 +1,8 @@
+12/05/2020 01:59:21 - https://www.alura.com.br- online: true
+12/05/2020 01:59:23 - https://www.gremio.net- online: true
+12/05/2020 01:59:23 - http://www.pudim.com.br- online: true
+12/05/2020 01:59:23 - http://www.google.com- online: true
+12/05/2020 01:59:31 - https://www.alura.com.br- online: true
+12/05/2020 01:59:31 - https://www.gremio.net- online: true
+12/05/2020 01:59:31 - http://www.pudim.com.br- online: true
+12/05/2020 01:59:31 - http://www.google.com- online: true
